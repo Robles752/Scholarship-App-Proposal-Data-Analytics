@@ -1,4 +1,4 @@
-# Scholarship-App-Survey-Data
+# Scholarship-App-Proposal-Data-Analytics
 The following files represent a data analysis project conducted by surveying over 250 UNLV Students on their demographics, financial struggles, and interest in a scholarship app made by UNLV. 
 
 Please refer to "Unlocking Opportunities - A Data-Driven Exploration of UNLV Students" Financial Landscape.pdf" to view an article explaining the data and files. Or, you can view
